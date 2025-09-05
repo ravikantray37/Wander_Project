@@ -2,7 +2,7 @@
 
 **WANDERLUST** is a modern and intuitive hotel booking web application designed for travelers to explore, book, and manage hotel stays across various destinations.
 
-🔗 **Live Demo**: [https://wander-project-gvoo.onrender.com](https://wander-project-gvoo.onrender.com)
+🔗 **Live Demo**: [https://wander-project-gvoo.onrender.com]
 
 ---
 
